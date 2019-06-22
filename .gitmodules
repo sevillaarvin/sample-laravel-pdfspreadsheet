@@ -1,0 +1,3 @@
+[submodule "laradock-phpspreadsheet"]
+	path = laradock-phpspreadsheet
+	url = https://github.com/Laradock/laradock.git
